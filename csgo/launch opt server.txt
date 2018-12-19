@@ -1,5 +1,4 @@
-//Gør så vi kan bestemme alle spilleres avatar.
+//This allows us to have custom avatars set by the server.
 +sv_reliableavatardata 2
-
 //Tickrate af server.
 -tickrate 128
