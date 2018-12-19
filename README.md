@@ -1,11 +1,11 @@
-# CS-configs
+# CSGO Config Templates
 
-Dette er et samlingssted for config filer til CS:GO servers.
+ENG: This Github Repo will include our default csgo server config.
 
-## Her finder du bla:
+DK: Dette Github Repo vil indeholde vores standart konfigurations filer til csgo servers.
 
-Server.cfg
-Motd.txt
-Namesfile.txt
-Avatars
-Teamlogo'er
+## This Repo includes
+
+* The main server.cfg
+* ESL Config
+* Optimized Gamemode config
