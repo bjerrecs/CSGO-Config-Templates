@@ -1,5 +1,6 @@
-Inline-style: 
-![alt text](https://www.uptimelegal.com/wp-content/uploads/sites/765/2017/01/systems-icons-server-maintenance.png =140x140 "")
+<img src="https://www.uptimelegal.com/wp-content/uploads/sites/765/2017/01/systems-icons-server-maintenance.png" alt="drawing" width="200"/>
+
+
 # CSGO Config Templates
 
 ENG: This Github Repo will include our default csgo server config.
