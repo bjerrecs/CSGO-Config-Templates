@@ -11,6 +11,8 @@ DK: Dette Github Repo vil indeholde vores standart konfigurations filer til csgo
 * Optimized Gamemode config
 
 ## Todo:
-
-* GOTV config
+* Server Config ✔️
+* ESL config ✔️ ️
+* Optimized Gamemode config ✔️
+* GOTV config ✔️
 * Knife & Warmup config
