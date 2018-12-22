@@ -1,4 +1,8 @@
 //This allows us to have custom avatars set by the server.
 +sv_reliableavatardata 2
+
 //Tickrate af server.
 -tickrate 128
+
+//Start GOTV at lunch of the server
++tv_enable 1
